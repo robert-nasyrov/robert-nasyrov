@@ -22,7 +22,7 @@ Every system below is **deployed and running** on Railway with PostgreSQL:
 
 | System | What it does | Impact |
 |--------|-------------|--------|
-| **TrabajaYa** | AI recruiting platform — sourcing, screening, matching | 3,600+ candidates, 4 clients, LATAM expansion |
+| **TrabajaYa** | AI recruiting platform — sourcing, screening, matching | 2,200+ candidates, 4 clients, LATAM expansion |
 | **Telegram Morning Digest** | Daily AI briefing from more than 30 work chats with memory layer | Used every day since launch |
 | **ZBS CRM Bot** | Team scheduling, CRM, finance module, blogger directory | 10+ team members rely on it daily |
 | **LinkedIn Auto-Poster** | Reads news → generates posts with images (memes) → approval flow → publishes | Hands-free LinkedIn content pipeline |
