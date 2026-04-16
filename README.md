@@ -8,7 +8,7 @@ Based in Tashkent, Uzbekistan. Building for the world.
 
 ## 🏆 Key Case Study: TrabajaYa
 
-AI-powered recruiting platform that **processed 3,600+ candidates** end-to-end, expanded across **multiple LATAM markets**, and serves **major clients**.
+AI-powered recruiting platform that **processed 2,200+ candidates** end-to-end, expanded across **multiple LATAM markets**, and serves **major clients**.
 
 The system automates candidate sourcing, screening, and matching using LLM pipelines — from intake to placement.
 
